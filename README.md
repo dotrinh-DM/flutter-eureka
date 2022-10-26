@@ -1,8 +1,18 @@
-# flutter_eureka
+# Hướng dẫn
+- Refs: [link](https://docs.flutter.dev/get-started/install/macos)
 
-A new Flutter project.
+## Install Flutter SDK
+- Clone SDK về nơi ổn định không dễ bị xoá nhầm: git clone https://github.com/flutter/flutter.git -b stable
+- Vào thư mục vừa clone chạy: export PATH="$PATH:`pwd`/bin" 
 
-## Getting Started
+## Sau khi clone SDK & setup
+Tạo dự án mới bằng Android Studio mở dự án này ra và build.
+
+## Kết quả
+
+![IMG_3642 2](https://user-images.githubusercontent.com/8064517/198015524-0c8b127d-e3a2-41f4-8f21-8f7692ba8672.jpg)
+
+## Ref: Getting Started
 
 This project is a starting point for a Flutter application.
 
